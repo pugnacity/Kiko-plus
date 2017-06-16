@@ -3,7 +3,6 @@ layout: post
 title:  consultants?!
 date:   2017-06-14
 tags:  [ devops]
-published: true
 ---
 Bei der [PacketPushers Show 343][1] gab es eine sehr interessant Frage, ob man in Zukunft noch Consultants benötigt oder nicht. Das entschiedene Argument war am Ende, das ein Consultant nie so viel wissen haben kann wie ein Mitarbeiter. Sie können im besten Fall Denkanstöße liefern und damit neue Möglichkeiten aufzeigen. Aber möchte man dafür unbedingt soviel Geld ausgeben. Ist es nicht viel besser und einfacher seinen Mitarbeitern den Freiraum zu geben um neue Technologien und Möglichkeiten im Rahmen der Arbeit auszuprobieren?
 
